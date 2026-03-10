@@ -1,0 +1,26 @@
+# Mixed Lists Test
+
+1. Ordered Item 1
+   - Unordered Subitem A
+   - Unordered Subitem B
+2. Ordered Item 2
+   * Another Unordered Style
+   * And another
+3. Ordered Item 3
+   1. Nested Ordered 1
+   2. Nested Ordered 2
+
+# Nested Formatting Test
+
+- This has **bold text** inside a list item.
+- This has *italic text* inside a list item.
+- This has `inline code` inside a list item.
+- This has [a link](https://example.com) inside a list item.
+
+> Blockquote with **bold** and `code` inside.
+
+## Headers with Inline
+
+# Header with **Bold**
+## Header with `Code`
+### Header with [Link](url)
